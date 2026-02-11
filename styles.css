@@ -436,7 +436,7 @@ footer{
         width:100%;
     }
 
-    .highligh:not(:last-child){
+    .highlight:not(:last-child):not(:last-child){
         margin-bottom:24px;
     }
 }
